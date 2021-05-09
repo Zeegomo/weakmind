@@ -1,0 +1,3 @@
+#!/bin/bash
+# USAGE: ./runmyplayer <black|white> <timeout-in-seconds> <server-ip>
+./tablut "weakmind" $@

@@ -1,0 +1,11 @@
+[package]
+name = "zerosumrs"
+version = "0.1.0"
+authors = ["Giacomo Pasini <giacomo.pasini@iohk.io>", "MyK_00L <michaelchelli00@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+rand="0.8"
+rand_xoshiro="0.6"
+rustc-hash="1"
